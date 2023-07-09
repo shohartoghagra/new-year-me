@@ -3,14 +3,14 @@ body{
 }
 *{
 margin: 0;
-padding: 0;
+
 cursor: pointer;
-border: none;
-bottom: 0;
+
 
 }
 
 .all-think-container{
+
     background-image: url('../images/banner/banner1.png');
     background-repeat: no-repeat;
     background-size:cover;
@@ -20,7 +20,7 @@ bottom: 0;
   
 }
 .heading-title{
- margin-left: 40rem;
+ margin-left: 50rem;
 padding: 12%;
 align-items: center;
 
