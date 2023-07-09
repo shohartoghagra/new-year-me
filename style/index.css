@@ -68,7 +68,7 @@ font-size: 20px;
     align-items: center;
     justify-content: space-between;
     width: 100%;
-    height: 100vh;
+    height: 80vh;
 }
 .my-container{
 padding:9rem;
@@ -85,7 +85,7 @@ font-weight: 400;
  margin-bottom: 5px;
 }
 .all-thinks{
-    padding: 10px  0;
+    padding: 5px 5px;
 }
 
 /* <!-- familiar section start here --> */
@@ -162,10 +162,10 @@ background-color: white;
 
 
 footer{
-   padding: 130px 230px  ;
+   padding: 130px 100px  ;
     justify-content:space-around;
     margin-top:130px;
-    gap:300px;
+    gap:200px;
     background-color: black;
     align-items: center;
    
@@ -179,7 +179,7 @@ display: flex;
 
 }
 .description-section{ 
-   width: 50%;
+   width: 40%;
    
 }
 /* contact section */
@@ -189,7 +189,7 @@ padding-bottom: 30px;
 }
 .Subscribe, input{
     margin-bottom: 20px;
-    padding: 20px 50px;
+    padding: 20px 30px;
     border: none;
     font-size: 18px;
 }
