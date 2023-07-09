@@ -49,6 +49,7 @@ font-size: 20px;
 }
 
 #btn-contact{
+    margin-top: 1rem;
     width: 160px;
     height: 64px;
     border-radius: 5px;
@@ -59,12 +60,8 @@ font-size: 20px;
     font-size: 20px;
 
 }
-.description{
-    margin-bottom: 15px;
 
-}
 .familiar-container{
-    padding-top: 10rem;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -73,7 +70,9 @@ font-size: 20px;
     border: 2px solid red;
 }
 .my-container{
-padding:9rem;
+    padding: 0 15rem;
+align-items: center;
+
 
 }
 ol{
@@ -114,7 +113,8 @@ border-radius: 50%;
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    padding: 5rem;
+   
+    padding: 3rem;
 }
 .my-heading{
     
@@ -170,8 +170,6 @@ footer{
     gap:200px;
     background-color: black;
     align-items: center;
-   
-   
     color: white;
     width: 90%;
 }
