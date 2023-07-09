@@ -161,7 +161,7 @@ footer{
     align-items: center;
    
     color: white;
-    width: 70%;
+    width: 90%;
 }
 
 .footer-container-section{
@@ -169,12 +169,13 @@ display: flex;
 
 }
 .description-section{ 
-   width: 40%;
+   width: 50%;
    
 }
 /* contact section */
 .subscribe-title{
 padding-bottom: 30px;
+
 }
 .Subscribe, input{
     margin-bottom: 20px;
@@ -184,11 +185,13 @@ padding-bottom: 30px;
 }
 .social-section{
    margin-top: 40px;
+  
    
 }
 
 
 .icon-item{
     padding: 10px;
+    
     
 }
