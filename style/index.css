@@ -1,0 +1,195 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+*{
+margin: 0;
+padding: 0;
+cursor: pointer;
+
+}
+
+.all-think-container{
+    background-image: url('../images/banner/banner1.png');
+    background-repeat: no-repeat;
+    background-size:cover;
+    width: 100%;
+    height:100vh; 
+    box-sizing: border-box;
+  
+}
+.heading-title{
+ margin-left: 40rem;
+padding: 12%;
+align-items: center;
+
+}
+.heading-title{
+    margin-top: auto;
+    
+}
+.all-thinks{
+    align-items:center;
+    color:  #151414;
+    font-size: 65px;
+    font-weight: 700;
+    justify-content: right;
+}
+.btn{
+width: 160px;
+height: 64px;
+border-radius: 5px;
+background: #F15B22;
+color: #FFF;
+text-align:center;
+border: none;
+font-size: 20px;
+}
+
+#btn-contact{
+    width: 160px;
+    height: 64px;
+    border-radius: 5px;
+    background: #F15B22;
+    color: #FFF;
+    text-align:center;
+    border: none;
+    font-size: 20px;
+
+}
+.description{
+    margin-bottom: 15px;
+
+}
+.familiar-container{
+    padding-top: 10rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    height: 100vh;
+}
+.my-container{
+padding:9rem;
+
+}
+ol{
+    margin-left: 10px;
+    padding: 10px 0;
+}
+.description-style{
+ color: #444343;
+font-size: 16px;
+font-weight: 400;
+ margin-bottom: 5px;
+}
+.all-thinks{
+    padding: 10px  0;
+}
+
+/* <!-- familiar section start here --> */
+
+.img-style{
+
+background-color:bisque;
+border-radius: 50%;
+    
+}
+
+.image{
+    width: 800px;
+    height: 800px;
+    
+    
+}
+.my-plans-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 5rem;
+}
+.my-heading{
+    
+    width: 100%;
+    text-align:center;
+    color:  #151414;
+    font-size: 40px;
+    
+}
+.watch-container{
+    background-image: url('../images/watch.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+   justify-content: center;
+   width: 100%;
+   height: 70vb;
+}
+
+.para-always{
+    color: #FFF;
+    font-size: 40px;
+    font-weight: 700;
+   padding-left: 50px;
+   margin-top: 5px;
+   height: 90px;
+   width: 460px;  
+}
+
+.always-keep-title{
+padding-top: 30px;
+color: #151414;
+
+}
+.btn{
+margin-top: 20px;
+color: #F15B22;
+text-align: center;
+font-size: 20px;
+font-weight: 600;
+background-color: white;
+    
+}
+
+/* footer start from here */
+
+
+footer{
+   padding: 130px 230px  ;
+    justify-content:space-around;
+    margin-top:130px;
+    gap:300px;
+
+    background-color: black;
+    align-items: center;
+    align-items: space;
+    color: white;
+
+}
+
+.footer-container-section{
+display: flex;
+
+}
+.description-section{ 
+   width: 50%;
+   
+}
+/* contact section */
+.subscribe-title{
+padding-bottom: 30px;
+}
+.Subscribe, input{
+    margin-bottom: 20px;
+    padding: 20px 100px;
+    border: none;
+    font-size: 18px;
+}
+.social-section{
+   margin-top: 40px;
+   
+}
+
+
+.icon-item{
+    padding: 10px;
+    
+}
