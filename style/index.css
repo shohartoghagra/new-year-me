@@ -159,9 +159,9 @@ footer{
     gap:300px;
     background-color: black;
     align-items: center;
-    align-items: space;
+   
     color: white;
-width: 100%;
+    width: 100%;
 }
 
 .footer-container-section{
@@ -178,7 +178,7 @@ padding-bottom: 30px;
 }
 .Subscribe, input{
     margin-bottom: 20px;
-    padding: 20px 50px;
+    padding: 20px 10px;
     border: none;
     font-size: 18px;
 }
